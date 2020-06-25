@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://pato:pato@cluster0-cttvr.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "26bc5cfc3e4ee93d89ec",
+  "githubSecret": "9ced33878f7ec0035486904910bb20e106111f2f"
+}
